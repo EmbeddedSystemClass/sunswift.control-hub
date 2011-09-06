@@ -11,6 +11,9 @@ syntax: glob
 *.map
 *.sw*
 *.orig
+hardware/*csv
+hardware/*rep
 */Project Outputs*
+*/Project Logs*
 cscope.files
 cscope.out
