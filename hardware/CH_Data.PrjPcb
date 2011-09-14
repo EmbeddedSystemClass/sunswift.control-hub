@@ -333,13 +333,13 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [Document23]
-DocumentPath=12to5VSwitcher-3A-Data.SCHDOC
+DocumentPath=USBHub.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -347,13 +347,13 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [Document24]
-DocumentPath=Quad RS232.SchDoc
+DocumentPath=12to5VSwitcher-3A-Data.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -361,6 +361,20 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [Document25]
+DocumentPath=Quad RS232.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
+[Document26]
 DocumentPath=FT4232.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -374,7 +388,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
-[Document26]
+[Document27]
 DocumentPath=controlhub.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -387,6 +401,9 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
+
+[GeneratedDocument1]
+DocumentPath=..\..\Steering_Wheel_Done\wheel\Steering_Wheel_Mate.PcbDoc.htm
 
 [OutputGroup1]
 Name=Netlist Outputs
