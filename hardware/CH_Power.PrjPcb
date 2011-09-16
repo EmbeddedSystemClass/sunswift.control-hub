@@ -375,6 +375,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for CH_Power\Design Rule Check - CH_Power.html
+
+[GeneratedDocument2]
 DocumentPath=..\libaltium\SunswiftA4.PCBDOC.htm
 
 [OutputGroup1]
